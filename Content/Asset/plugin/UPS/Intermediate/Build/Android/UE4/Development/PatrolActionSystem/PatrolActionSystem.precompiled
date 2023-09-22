@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"Module.PatrolActionSystem.cppa7.o",
+		"Module.PatrolActionSystem.cppa8.o",
+		"Module.PatrolActionSystem.gen.1_of_2.cppa7.o",
+		"Module.PatrolActionSystem.gen.2_of_2.cppa7.o",
+		"Module.PatrolActionSystem.gen.1_of_2.cppa8.o",
+		"Module.PatrolActionSystem.gen.2_of_2.cppa8.o"
+	]
+}

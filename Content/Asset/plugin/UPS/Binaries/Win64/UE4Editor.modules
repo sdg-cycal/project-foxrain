@@ -1,0 +1,8 @@
+{
+	"BuildId": "10570792",
+	"Modules": 
+	{
+		"PatrolActionSystem": "UE4Editor-PatrolActionSystem.dll",
+		"PatrolActionSystemEditor": "UE4Editor-PatrolActionSystemEditor.dll"
+	}
+}

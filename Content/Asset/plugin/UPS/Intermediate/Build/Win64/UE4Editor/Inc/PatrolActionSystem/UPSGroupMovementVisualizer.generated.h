@@ -1,0 +1,100 @@
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef PATROLACTIONSYSTEM_UPSGroupMovementVisualizer_generated_h
+#error "UPSGroupMovementVisualizer.generated.h already included, missing '#pragma once' in UPSGroupMovementVisualizer.h"
+#endif
+#define PATROLACTIONSYSTEM_UPSGroupMovementVisualizer_generated_h
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_19_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FGroupVisualizationInfo_Statics; \
+	PATROLACTIONSYSTEM_API static class UScriptStruct* StaticStruct();
+
+
+template<> PATROLACTIONSYSTEM_API UScriptStruct* StaticStruct<struct FGroupVisualizationInfo>();
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_SPARSE_DATA
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_RPC_WRAPPERS
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_RPC_WRAPPERS_NO_PURE_DECLS
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUUPSGroupMovementVisualizer(); \
+	friend struct Z_Construct_UClass_UUPSGroupMovementVisualizer_Statics; \
+public: \
+	DECLARE_CLASS(UUPSGroupMovementVisualizer, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/PatrolActionSystem"), NO_API) \
+	DECLARE_SERIALIZER(UUPSGroupMovementVisualizer)
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_INCLASS \
+private: \
+	static void StaticRegisterNativesUUPSGroupMovementVisualizer(); \
+	friend struct Z_Construct_UClass_UUPSGroupMovementVisualizer_Statics; \
+public: \
+	DECLARE_CLASS(UUPSGroupMovementVisualizer, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/PatrolActionSystem"), NO_API) \
+	DECLARE_SERIALIZER(UUPSGroupMovementVisualizer)
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UUPSGroupMovementVisualizer(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUPSGroupMovementVisualizer) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUPSGroupMovementVisualizer); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUPSGroupMovementVisualizer); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUPSGroupMovementVisualizer(UUPSGroupMovementVisualizer&&); \
+	NO_API UUPSGroupMovementVisualizer(const UUPSGroupMovementVisualizer&); \
+public:
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUPSGroupMovementVisualizer(UUPSGroupMovementVisualizer&&); \
+	NO_API UUPSGroupMovementVisualizer(const UUPSGroupMovementVisualizer&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUPSGroupMovementVisualizer); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUPSGroupMovementVisualizer); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUPSGroupMovementVisualizer)
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_PRIVATE_PROPERTY_OFFSET
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_24_PROLOG
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_PRIVATE_PROPERTY_OFFSET \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_SPARSE_DATA \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_RPC_WRAPPERS \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_INCLASS \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_PRIVATE_PROPERTY_OFFSET \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_SPARSE_DATA \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_INCLASS_NO_PURE_DECLS \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h_27_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> PATROLACTIONSYSTEM_API UClass* StaticClass<class UUPSGroupMovementVisualizer>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_Utils_UPSGroupMovementVisualizer_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,96 @@
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef PATROLACTIONSYSTEM_UPSFormationPointComponent_generated_h
+#error "UPSFormationPointComponent.generated.h already included, missing '#pragma once' in UPSFormationPointComponent.h"
+#endif
+#define PATROLACTIONSYSTEM_UPSFormationPointComponent_generated_h
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_SPARSE_DATA
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_RPC_WRAPPERS
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_RPC_WRAPPERS_NO_PURE_DECLS
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUUPSFormationPointComponent(); \
+	friend struct Z_Construct_UClass_UUPSFormationPointComponent_Statics; \
+public: \
+	DECLARE_CLASS(UUPSFormationPointComponent, UBillboardComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/PatrolActionSystem"), NO_API) \
+	DECLARE_SERIALIZER(UUPSFormationPointComponent)
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_INCLASS \
+private: \
+	static void StaticRegisterNativesUUPSFormationPointComponent(); \
+	friend struct Z_Construct_UClass_UUPSFormationPointComponent_Statics; \
+public: \
+	DECLARE_CLASS(UUPSFormationPointComponent, UBillboardComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/PatrolActionSystem"), NO_API) \
+	DECLARE_SERIALIZER(UUPSFormationPointComponent)
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UUPSFormationPointComponent(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUPSFormationPointComponent) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUPSFormationPointComponent); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUPSFormationPointComponent); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUPSFormationPointComponent(UUPSFormationPointComponent&&); \
+	NO_API UUPSFormationPointComponent(const UUPSFormationPointComponent&); \
+public:
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUPSFormationPointComponent(UUPSFormationPointComponent&&); \
+	NO_API UUPSFormationPointComponent(const UUPSFormationPointComponent&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUPSFormationPointComponent); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUPSFormationPointComponent); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUPSFormationPointComponent)
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__CharacterOnPoint() { return STRUCT_OFFSET(UUPSFormationPointComponent, CharacterOnPoint); }
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_16_PROLOG
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_PRIVATE_PROPERTY_OFFSET \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_SPARSE_DATA \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_RPC_WRAPPERS \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_INCLASS \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_PRIVATE_PROPERTY_OFFSET \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_SPARSE_DATA \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_INCLASS_NO_PURE_DECLS \
+	Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h_19_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> PATROLACTIONSYSTEM_API UClass* StaticClass<class UUPSFormationPointComponent>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Build___Portal_Promotion_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_UPS_Source_PatrolActionSystem_Public_GroupMovement_UPSFormationPointComponent_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
